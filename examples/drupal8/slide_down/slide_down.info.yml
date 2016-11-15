@@ -1,5 +1,0 @@
-name: 'Slide Down Command'
-type: module
-description: Provides an AJAX Callback command for the jQuery SlideDown method.
-package: other
-core: 8.x
